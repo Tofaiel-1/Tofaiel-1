@@ -1,5 +1,4 @@
 # Welcome to My GitHub Profile!
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tofaiel-1&theme=tokyonight&hide_border=true" alt="Tofaiel-1's GitHub Stats" />
