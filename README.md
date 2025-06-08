@@ -12,7 +12,7 @@
 - 🎓 Studying **Computer Science & Engineering**.
 - 💡 I love building **useful projects**, exploring **new technologies**, and solving **real-world problems**.
 - 🌐 Currently diving deep into:  
-   `Html`, `CSS`, `C`, `C++`, `Python`, `C#`, `ASP.NET`, `WinForms`, `PHP`, `MySQL`, and `Git`.
+   `Html`, `CSS`, `C`, `C++`, `Java`, `Python`, `C#`, `ASP.NET`, `WinForms`, `PHP`, `MySQL`, and `Git`.
 
 ---
 
