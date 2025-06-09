@@ -66,7 +66,11 @@
 
 ### 🐍 GitHub Snake Contribution Animation
 
-![snake gif](https://github.com/Tofaiel-1/Tofaiel-1/blob/output/github-contribution-grid-snake.svg)
+<!-- Light Mode -->
+![snake gif](https://raw.githubusercontent.com/Tofaiel-1/Tofaiel-1/output/github-contribution-grid-snake.svg)
+
+<!-- Dark Mode (Optional) -->
+![snake dark](https://raw.githubusercontent.com/Tofaiel-1/Tofaiel-1/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 
 ## 🏆 GitHub Achievements
