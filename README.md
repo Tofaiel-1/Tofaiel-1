@@ -46,15 +46,30 @@
 
 ---
 
-## 📊 GitHub Stats
+## ✨ GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tofaiel-1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tofaiel-1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Tofaiel-1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" width="45%" />
+
+<!-- GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=Tofaiel-1&theme=tokyonight&hide_border=true&border_radius=12" width="45%" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tofaiel-1&layout=donut&theme=tokyonight&hide_border=true&border_radius=12" width="50%" />
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Tofaiel-1&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" width="90%" />
+
 </div>
 
 ---
+
+### 🐍 GitHub Snake Contribution Animation
+
+![snake gif](https://github.com/Tofaiel-1/Tofaiel-1/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 🏆 GitHub Achievements
 
