@@ -59,8 +59,6 @@
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tofaiel-1&layout=donut&theme=tokyonight&hide_border=true&border_radius=12" width="50%" />
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Tofaiel-1&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" width="90%" />
 
 </div>
 
