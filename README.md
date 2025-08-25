@@ -25,13 +25,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🧰 Frameworks & Platforms:
+### 🧰 Frameworks & Platforms
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-0081CB?style=for-the-badge&logo=windows&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -53,24 +53,52 @@
 ## ✨ GitHub Stats & Contributions
 
 <div align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Tofaiel-1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" width="45%" />
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Tofaiel-1&theme=tokyonight&hide_border=true&border_radius=12" width="45%" />
-  <!-- Top Languages -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tofaiel-1&theme=tokyonight&hide_border=true&border_radius=12" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tofaiel-1&layout=donut&theme=tokyonight&hide_border=true&border_radius=12" width="50%" />
 </div>
 
 ---
 
 ### 🐍 GitHub Snake Contribution Animation
-<!-- Light Mode -->
 ![snake gif](https://raw.githubusercontent.com/Tofaiel-1/Tofaiel-1/output/github-contribution-grid-snake.svg)
-<!-- Dark Mode (Optional) -->
-![snake dark](https://raw.githubusercontent.com/Tofaiel-1/Tofaiel-1/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
+---
 
 ## 🏆 GitHub Achievements
 ![Tofaiel-1's GitHub trophies](https://github-profile-trophy.vercel.app/?username=Tofaiel-1&theme=tokyonight&no-frame=true&column=7)
+
+---
+
+## 📌 Featured Projects
+
+- 🔹 [Cpp-learning-School](https://github.com/Tofaiel-1/Cpp-learning-School) → Learning and practicing **C++ basics** with examples.  
+- 🔹 [Python-Learning](https://github.com/Tofaiel-1/Python-Learning) → Step-by-step **Python learning journey**.  
+- 🔹 [Python-Project](https://github.com/Tofaiel-1/Python-Project) → Collection of **Python mini-projects**.  
+- 🔹 *(More projects coming soon...)*  
+
+---
+
+## 🎓 Certifications & Achievements
+
+- 🏅 Completed **C Programming Basics** (SoloLearn)  
+- 🏅 Completed **Java for Beginners** (Coursera)  
+- 🏅 Participated in **Hackathon XYZ 2025**  
+- 🏅 Solved 100+ coding problems on **LeetCode & Codeforces**  
+
+---
+
+## 📖 Currently Working On
+
+- 🌐 Building a **Healthcare Management System** (PHP + MySQL)  
+- 📊 Learning **Data Structures & Algorithms** (C++/Java)  
+- ☁️ Exploring **Cloud & Dockerization** for deployment  
+
+---
+
+## 💡 Quote of the Day
+
+> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*  
 
 ---
 
@@ -79,6 +107,12 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1Ar7EsB4kB/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tofaiel-hussain-tota-82060525a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdtofaielhussaintota@gmail.com)
+
+---
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Tofaiel-1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
+</p>
 
 ---
 
